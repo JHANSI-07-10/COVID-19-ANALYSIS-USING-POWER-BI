@@ -35,6 +35,3 @@ This project showcases a powerful and interactive **COVID-19 Dashboard** develop
 
 ---
 
-## 📁 Folder Structure
-
-# COVID-19-ANALYSIS-USING-POWER-BI
